@@ -1,0 +1,69 @@
+
+body{
+    background-color:gray;
+}
+        #clock {
+        	font-size: 120px;
+        	width: 700px;
+        margin-top: 80px;
+            margin-left: 30PX;
+        	text-align: center;
+        	border: 3px solid rgb(99, 3, 3);
+        	border-radius: 20px;
+            color: white;
+        }
+        #clock:hover{
+            border: 3px solid green;
+        }
+        .full h1{
+            color: white;
+            background-color: rgb(128, 6, 6);
+            font-size: 40px;
+            margin-left: 150px;
+            margin-top: 40px;
+            width: 500px;
+        
+        }
+        
+        .full{
+            border:1px solid black;
+            background-color:black;
+            height: 500px;
+
+            width: 750px;
+            margin-left: 300px;
+            margin-top: 60px;
+            box-shadow: 0px 0px 16px 3px rgb(66, 1, 1);
+        }
+        #start{
+            font-size: 16px;
+            width: 100px;
+            height: 40px;
+            color: white;
+            background-color: rgb(128, 6, 6);
+            border: none;
+            margin-left:230px;
+            margin-top: 60px;
+            border-radius: 9px;
+
+
+            
+            
+        }
+        #start:hover{
+            border: 1px solid green;
+        }
+        #stop:hover{
+            border: 1px solid green;
+        }
+        #stop{
+            font-size: 16px;
+            width: 100px;
+            height: 40px;
+            color: white;
+            background-color: rgb(128, 6, 6);
+            border: none;
+            margin-left: 80px;
+            border-radius: 9px;
+        }
+    
